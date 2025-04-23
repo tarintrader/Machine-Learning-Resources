@@ -13,6 +13,8 @@
 * https://slds-lmu.github.io/i2ml/
 * https://www.ml4trading.io/
 * https://cs231n.stanford.edu/
+* https://www.freecodecamp.org/learn/data-analysis-with-python/
+* https://webscraping.fyi/
 ---
 * https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python
 * https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python

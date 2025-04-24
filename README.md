@@ -30,10 +30,10 @@
 * https://github.com/DataTalksClub/machine-learning-zoomcamp
 * https://github.com/DataTalksClub/mlops-zoomcamp
 * https://madewithml.com/
- * https://github.com/GokuMohandas/Made-With-ML
+  * https://github.com/GokuMohandas/Made-With-ML
 * https://www.deeplearning.ai/courses/machine-learning-in-production/
 * https://www.realworldml.net/open-source-hands-on-tutorials
- * https://www.realworldml.net/the-hands-on-train-and-deploy-ml-course
+  * https://github.com/Paulescu/hands-on-train-and-deploy-ml/tree/main
 * https://github.com/jacopotagliabue/MLSys-NYU-2022
 
 

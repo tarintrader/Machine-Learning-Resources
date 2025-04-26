@@ -35,7 +35,10 @@
 * https://www.realworldml.net/open-source-hands-on-tutorials
   * https://github.com/Paulescu/hands-on-train-and-deploy-ml/tree/main
 * https://github.com/jacopotagliabue/MLSys-NYU-2022
-
+---
+* https://github.com/ossu/data-science
+* https://github.com/ossu/computer-science
+* https://microsoft.github.io/Data-Science-For-Beginners/#/
 
   
 

@@ -14,7 +14,18 @@
 * https://www.ml4trading.io/
 * https://cs231n.stanford.edu/
 * https://www.freecodecamp.org/learn/data-analysis-with-python/
+* https://github.com/DataTalksClub/data-engineering-zoomcamp
+* https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html
 * https://webscraping.fyi/
+  *  https://github.com/je-suis-tm/web-scraping
+  *  https://github.com/MorvanZhou/easy-scraping-tutorial
+  *  https://github.com/lkuffo/web-scraping/tree/master
+  *  https://github.com/ultrafunkamsterdam/nodriver
+  *  https://github.com/kaliiiiiiiiii/Selenium-Driverless
+  *  https://github.com/BruceDone/awesome-crawler
+  *  https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project
+  *  https://github.com/lorey/mlscraper
+  *  https://github.com/GramAddict/bot
 ---
 * https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python
 * https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python

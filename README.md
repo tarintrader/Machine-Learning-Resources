@@ -26,6 +26,7 @@
   *  https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project
   *  https://github.com/lorey/mlscraper
   *  https://github.com/GramAddict/bot
+  *  https://www.mckayjohns.com/
 ---
 * https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python
 * https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python

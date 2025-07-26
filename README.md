@@ -51,6 +51,7 @@
 * https://github.com/ossu/data-science
 * https://github.com/ossu/computer-science
 * https://microsoft.github.io/Data-Science-For-Beginners/#/
+* https://github.com/dataquestio/project-walkthroughs/tree/master/football_matches
 
   
 
